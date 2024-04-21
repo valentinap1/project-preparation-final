@@ -1,6 +1,9 @@
 .center {
     text-align: center;
-    
+}
+
+.capital{
+     text-transform: uppercase;
 }
 
 .centerimg {
@@ -25,6 +28,7 @@ h1 {
 
 h2 {
     color:rgb(187, 49, 187)
+    
   
 }
 
@@ -91,4 +95,8 @@ border-color: rgb(187, 49, 187);
 
 .left{
     text-align: left;
+}
+
+div p {
+    color: rgb(252, 252, 171);
 }
