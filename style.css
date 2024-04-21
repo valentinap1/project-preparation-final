@@ -24,10 +24,13 @@ div h2{
 h1 {
     font-size: 80px;
     margin: 0em;
+    color: rgb(187, 49, 187); 
+    background-color: rgb(252, 252, 171);;
 }
 
 h2 {
-    color:rgb(187, 49, 187)
+    color:rgb(187, 49, 187);
+    
     
   
 }
