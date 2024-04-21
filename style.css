@@ -24,8 +24,10 @@ div h2{
 h1 {
     font-size: 80px;
     margin: 0em;
-    color: rgb(187, 49, 187); 
-    background-color: rgb(252, 252, 171);;
+    color: white; 
+    background-color:rgb(187, 49, 187);
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 h2 {
@@ -101,5 +103,5 @@ border-color: rgb(187, 49, 187);
 }
 
 div p {
-    color: rgb(252, 252, 171);
+    color:white;
 }
